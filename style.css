@@ -1,0 +1,43 @@
+html {
+	color: #f9f9f7;
+	background-color: #1d1d1d;
+	font-family: sans-serif;
+	text-align: center;
+	font-size: 1.5vw;
+}
+
+h1 {
+	font-size: 3.7vw;
+}
+
+h2 {
+	font-size: 2.45vw;
+}
+
+h3 {
+	font-size: 1.95vw;
+}
+
+h4 {
+	font-size: 1.25vw;
+}
+
+p {
+	margin-left: 20vw;
+	margin-right: 20vw;
+	overflow-wrap: break-word;
+}
+
+a {
+	color: #297bff;
+	text-decoration: none;
+	transition: color 0.15s;
+}
+
+a:hover {
+	color: #80b0ff;
+}
+
+a:active {
+	color: #004ac2;
+}
