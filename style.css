@@ -1,9 +1,10 @@
 html {
 	color: #f9f9f7;
-	background-color: #232323;
+	background-color: #1d1d1d;
 	font-family: sans-serif;
 	text-align: center;
 	font-size: 1.5vw;
+	overflow: hidden;
 }
 
 h1 {
@@ -43,5 +44,10 @@ a:active {
 }
 
 .footer {
-
+	width: 100vw;
+	height: 25vh;
+	background-color: #232323;
+	margin-top: 75vh;
+	text-align: center;
+	position: absolute;
 }
